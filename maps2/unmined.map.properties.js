@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: -2,
     maxRegionX: 3,
     maxRegionZ: 52,
-    worldName: "world",
+    worldName: "nether",
     background: "",
     markers: new Array()
 }
