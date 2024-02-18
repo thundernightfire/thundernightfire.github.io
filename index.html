@@ -40,7 +40,7 @@
         #map {
             height: 100%;
             width: 100%;
-            image-rendering: pixelated;
+
         }
 
         .mouseposition {
@@ -60,32 +60,26 @@
             border-radius: 3px;
             box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.2);
         }
-
-        .button {
-            border: none;
-            color: white;
-            padding: 15px 32px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-            margin: 4px 2px;
-            cursor: pointer;
-        }
-
-        .button1 {background-color: #04AA6D;} /* Green */
-        .button2 {background-color: #008CBA;} /* Blue */
     </style>
 
 </head>
 
 <body>
-    <div>
-        <button class="button button1">Green</button>
-        <button class="button button2">Blue</button>
-    </div>
 
-    <div id="map"></div>
+
+    <div id="map">
+        <div>
+            <button onclick="window.location.href='index.html';">
+                Overworld
+            </button>
+            <button onclick="window.location.href='maps2/index2.html';">
+                The Nether
+            </button>
+            <button onclick="window.location.href='maps3/index3.html';">
+                The End
+            </button>
+        </div>
+    </div>
 
     <script type="text/javascript">
 
