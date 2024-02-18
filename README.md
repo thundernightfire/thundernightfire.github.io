@@ -1,4 +1,4 @@
 # thundernightfire.github.io
 
-<p>UFO survival multiplayer server explored map</p>
-<p>private server</p>
+<p>explored maps for UFO survival multiplayer server, not realtime!</p>
+<p>this is a private server</p>
