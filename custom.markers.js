@@ -80,8 +80,8 @@ UnminedCustomMarkers = {
         },
         {
             //rumah kedua
-            x: 0,
-            z: 600,
+            x: 554,
+            z: 13120,
             image: "custom.pin.home.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
