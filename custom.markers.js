@@ -91,6 +91,47 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "bold 18px Calibri,sans serif",
         },
+        {
+            //rumah ketiga
+            x: -900,
+            z: 2660,
+            image: "custom.pin.home.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "rumah 3 (sejahtera)",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 18px Calibri,sans serif",
+        },
+        {
+            //rumah keempat
+            x: -13000,
+            z: 21400,
+            image: "custom.pin.home.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "rumah 4",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 18px Calibri,sans serif",
+        },
+        {
+            //rumah kelima
+            x: -22769,
+            z: 26985,
+            image: "custom.pin.home.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "rumah 5 (sakura)",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 18px Calibri,sans serif",
+        },
+        
+
 
         // Example 3: Text only
         // {
