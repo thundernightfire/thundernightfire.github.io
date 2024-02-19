@@ -119,8 +119,8 @@ UnminedCustomMarkers = {
         },
         {
             //rumah kelima
-            x: -22769,
-            z: 26985,
+            x: -23130,
+            z: 26666,
             image: "custom.pin.home.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
