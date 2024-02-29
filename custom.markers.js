@@ -79,9 +79,6 @@ UnminedCustomMarkers = {
             font: "bold 16px Calibri,sans serif",
         },
         {
-
-        },
-        {
             //rumah kedua
             x: 554,
             z: 13120,
@@ -147,8 +144,6 @@ UnminedCustomMarkers = {
             font: "bold 16px Calibri,sans serif",
         },
         
-
-
         // Example 3: Text only
         // {
         //     x: 200,
@@ -176,9 +171,6 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 0.8],
             imageScale: 0.03,
         },
-
-
-
 
         // do not delete the following two closing brackets
         
