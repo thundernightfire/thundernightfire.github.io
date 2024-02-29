@@ -58,12 +58,12 @@ UnminedCustomMarkers = {
             z: 181,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
-            imageScale: 0.4,
+            imageScale: 0.3,
             text: "Spawn",
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 18px Calibri,sans serif",
+            font: "bold 16px Calibri,sans serif",
         },
         {
             //rumah utama
@@ -71,12 +71,15 @@ UnminedCustomMarkers = {
             z: 600,
             image: "custom.pin.home.png",
             imageAnchor: [0.5, 1],
-            imageScale: 0.2,
+            imageScale: 0.1,
             text: "Rumah 1 (bekas perang)",
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 18px Calibri,sans serif",
+            font: "bold 16px Calibri,sans serif",
+        },
+        {
+
         },
         {
             //rumah kedua
@@ -84,12 +87,25 @@ UnminedCustomMarkers = {
             z: 13120,
             image: "custom.pin.home.png",
             imageAnchor: [0.5, 1],
-            imageScale: 0.2,
+            imageScale: 0.1,
             text: "Rumah 2 (es)",
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 18px Calibri,sans serif",
+            font: "bold 16px Calibri,sans serif",
+        },
+        {
+            //rumah kuro
+            x: 2791,
+            z: -821,
+            image: "custom.pin.home.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.1,
+            text: "Rumah kuro",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 16px Calibri,sans serif",
         },
         {
             //rumah ketiga
@@ -97,12 +113,12 @@ UnminedCustomMarkers = {
             z: 2660,
             image: "custom.pin.home.png",
             imageAnchor: [0.5, 1],
-            imageScale: 0.2,
+            imageScale: 0.1,
             text: "Rumah 3 (sejahtera)",
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 18px Calibri,sans serif",
+            font: "bold 16px Calibri,sans serif",
         },
         {
             //rumah keempat
@@ -110,12 +126,12 @@ UnminedCustomMarkers = {
             z: 21400,
             image: "custom.pin.home.png",
             imageAnchor: [0.5, 1],
-            imageScale: 0.2,
+            imageScale: 0.1,
             text: "Rumah 4",
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 18px Calibri,sans serif",
+            font: "bold 16px Calibri,sans serif",
         },
         {
             //rumah kelima
@@ -123,12 +139,12 @@ UnminedCustomMarkers = {
             z: 26666,
             image: "custom.pin.home.png",
             imageAnchor: [0.5, 1],
-            imageScale: 0.2,
+            imageScale: 0.1,
             text: "Rumah 5 (sakura)",
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 18px Calibri,sans serif",
+            font: "bold 16px Calibri,sans serif",
         },
         
 
@@ -144,11 +160,27 @@ UnminedCustomMarkers = {
         //     font: "bold 50px Calibri,sans serif",
         // },
 
-        // add your markers here
+        {
+            //portal 1
+            x: -932,
+            z: -2933,
+            image: "netherportal.png",
+            imageAnchor: [0.5, 0.8],
+            imageScale: 0.03,
+        },
+        {
+            //portal 2
+            x: -603,
+            z: -4753,
+            image: "netherportal.png",
+            imageAnchor: [0.5, 0.8],
+            imageScale: 0.03,
+        },
 
 
 
 
         // do not delete the following two closing brackets
+        
     ]
 }

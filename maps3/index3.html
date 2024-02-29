@@ -28,6 +28,10 @@
     <!-- uNmINeD JS -->
     <script type="text/javascript" src="unmined.openlayers.js"></script>
 
+    <!-- Navbar -->
+    <link rel="stylesheet" href="../nav.css">
+    <script src="../nav.js"></script>
+
     <style type="text/css">
         html,
         body {
@@ -66,16 +70,10 @@
 
 <body>
     <div id="map">
-        <div>
-            <button onclick="window.location.href='../index.html';">
-                Overworld
-            </button>
-            <button onclick="window.location.href='../maps2/index2.html';">
-                The Nether
-            </button>
-            <button onclick="window.location.href='index3.html';">
-                The End
-            </button>
+        <div id="navbar">
+            <a href="../index.html">Overworld</a>
+            <a href="../maps2/index2.html">The Nether</a>
+            <a href="index3.html">The End</a>
         </div>
     </div>
 
