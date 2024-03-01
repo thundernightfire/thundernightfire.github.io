@@ -52,6 +52,8 @@ UnminedCustomMarkers = {
         // },
 
         // Example 2: Marker with text
+
+        // Rumah
         {
             //spawn
             x: -212,
@@ -66,7 +68,7 @@ UnminedCustomMarkers = {
             font: "bold 16px Calibri,sans serif",
         },
         {
-            //rumah utama
+            //rumah 1
             x: 0,
             z: 600,
             image: "custom.pin.home.png",
@@ -79,7 +81,7 @@ UnminedCustomMarkers = {
             font: "bold 16px Calibri,sans serif",
         },
         {
-            //rumah kedua
+            //rumah 2
             x: 554,
             z: 13120,
             image: "custom.pin.home.png",
@@ -105,7 +107,7 @@ UnminedCustomMarkers = {
             font: "bold 16px Calibri,sans serif",
         },
         {
-            //rumah ketiga
+            //rumah 3
             x: -900,
             z: 2660,
             image: "custom.pin.home.png",
@@ -118,7 +120,7 @@ UnminedCustomMarkers = {
             font: "bold 16px Calibri,sans serif",
         },
         {
-            //rumah keempat
+            //rumah 4
             x: -13000,
             z: 21400,
             image: "custom.pin.home.png",
@@ -131,7 +133,7 @@ UnminedCustomMarkers = {
             font: "bold 16px Calibri,sans serif",
         },
         {
-            //rumah kelima
+            //rumah 5
             x: -23130,
             z: 26666,
             image: "custom.pin.home.png",
@@ -154,7 +156,8 @@ UnminedCustomMarkers = {
         //     offsetY: 0, 
         //     font: "bold 50px Calibri,sans serif",
         // },
-
+        
+        // endportal
         {
             //portal 1
             x: -932,
@@ -171,6 +174,57 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 0.8],
             imageScale: 0.03,
         },
+        {
+            //portal 3
+            x: -303,
+            z: 1796,
+            image: "netherportal.png",
+            imageAnchor: [0.5, 0.8],
+            imageScale: 0.03,
+        },
+        {
+            //portal 4 ex villager sharpness
+            x: -2774,
+            z: 3233,
+            image: "netherportal.png",
+            imageAnchor: [0.5, 0.8],
+            imageScale: 0.03,
+        },
+        {
+            //portal 5
+            x: 10367,
+            z: -5146,
+            image: "netherportal.png",
+            imageAnchor: [0.5, 0.8],
+            imageScale: 0.03,
+        },
+        {
+            //portal 6 terracota ded
+            x: 7995,
+            z: 5749,
+            image: "netherportal.png",
+            imageAnchor: [0.5, 0.8],
+            imageScale: 0.03,
+        },
+        
+        //stronghold
+        {
+            //portal 1
+            x: -161,
+            z: 1841,
+            image: "endportal.png",
+            imageAnchor: [0.5, 0.8],
+            imageScale: 0.03,
+        },
+        {
+            //portal 2
+            x: -13272,
+            z: 15391,
+            image: "endportal.png",
+            imageAnchor: [0.5, 0.8],
+            imageScale: 0.03,
+        },
+
 
         // do not delete the following two closing brackets
         

@@ -38,42 +38,175 @@ Use the imageScale property if the pin image is too large.
 
 UnminedCustomMarkers = {
 
-    isEnabled: false,
+    isEnabled: true,
 
     markers: [
 
-        // Example 1: Simple marker
-        {
-            x: -200,
-            z: -200,
-            image: "custom.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.5,
-        },
 
         // Example 2: Marker with text
         {
-            x: 0,
-            z: 0,
-            image: "custom.pin.png",
+            // rumah 1
+            x: 13,
+            z: 79,
+            image: "../netherportal.png",
             imageAnchor: [0.5, 1],
-            imageScale: 0.5,
-            text: "Marker with text",
-            textColor: "red", 
+            imageScale: 0.03,
+            text: "Rumah 1 (perang) 13 79 79",
+            textColor: "white", 
             offsetX: 0,
-            offsetY: 20,
-            font: "bold 20px Calibri,sans serif",
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
         },
-
-        // Example 3: Text only
         {
-            x: 200,
-            z: 200,
-            text: "Text only", 
-            textColor: "yellow", 
+            // stronghold 1
+            x: -39,
+            z: 222,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "Stronghold 1 -39 34 222",
+            textColor: "white", 
             offsetX: 0,
-            offsetY: 0, 
-            font: "bold 50px Calibri,sans serif",
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
+        {
+            // ex villager sharpness
+            x: -354,
+            z: 411,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "-354 76 411",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
+        {
+            // es balok
+            x: -117,
+            z: -367,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "-177 99 -367",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
+        {
+            // bekas mansion
+            x: 1282,
+            z: -642,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "1282 88 -642",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
+        {
+            // badlands terracota me ded because freestyle rip nether armor
+            x: 1000,
+            z: 719,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "1000 81 719",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
+        {
+            // bekas jalan-jalan
+            x: -79,
+            z: -595,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "-79 76 -595",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
+        {
+            // rumah 2
+            x: 66,
+            z: 1644,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "Rumah 2 (es) 66 80 1644",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
+        {
+            // rumah 3
+            x: -122,
+            z: 319,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "Rumah 3 (sejahtera) -122 63 319",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
+        {
+            // intersection
+            x: -121,
+            z: 1648,
+            image: "../intersection.png",
+            imageAnchor: [0.5, 0.5],
+            imageScale: 0.06,
+        },
+        {
+            // rumah 4
+            x: -1614,
+            z: 2672,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "Rumah 4 -1614 63 2672",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
+        {
+            // rumah 5
+            x: -2878,
+            z: 3313,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "Rumah 5 (sakura) -2878 54 3313",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
+        {
+            // stronghold 2
+            x: -1653,
+            z: 1928,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "Stronghold 2 -1653 36 1928",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
         },
 
         // add your markers here
