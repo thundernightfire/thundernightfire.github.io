@@ -136,6 +136,19 @@ UnminedCustomMarkers = {
             font: "bold 14px Calibri,sans serif",
         },
         {
+            // bekas warden yg sama rafi
+            x: 705,
+            z: 442,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "warden pertama x (sama rafi) 705 62 442",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 12,
+            font: "bold 12px Calibri,sans serif",
+        },
+        {
             // rumah 2
             x: 66,
             z: 1644,

@@ -64,7 +64,7 @@ UnminedCustomMarkers = {
             text: "Spawn",
             textColor: "white", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 16,
             font: "bold 16px Calibri,sans serif",
         },
         {
@@ -77,7 +77,7 @@ UnminedCustomMarkers = {
             text: "Rumah 1 (bekas perang)",
             textColor: "white", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 16,
             font: "bold 16px Calibri,sans serif",
         },
         {
@@ -90,7 +90,7 @@ UnminedCustomMarkers = {
             text: "Rumah 2 (es)",
             textColor: "white", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 16,
             font: "bold 16px Calibri,sans serif",
         },
         {
@@ -103,7 +103,7 @@ UnminedCustomMarkers = {
             text: "Rumah kuro",
             textColor: "white", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 16,
             font: "bold 16px Calibri,sans serif",
         },
         {
@@ -116,7 +116,7 @@ UnminedCustomMarkers = {
             text: "Rumah 3 (sejahtera)",
             textColor: "white", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 16,
             font: "bold 16px Calibri,sans serif",
         },
         {
@@ -129,7 +129,7 @@ UnminedCustomMarkers = {
             text: "Rumah 4",
             textColor: "white", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 16,
             font: "bold 16px Calibri,sans serif",
         },
         {
@@ -142,7 +142,7 @@ UnminedCustomMarkers = {
             text: "Rumah 5 (sakura)",
             textColor: "white", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 16,
             font: "bold 16px Calibri,sans serif",
         },
         
@@ -157,7 +157,7 @@ UnminedCustomMarkers = {
         //     font: "bold 50px Calibri,sans serif",
         // },
         
-        // endportal
+        // --nether--
         {
             //portal 1
             x: -932,
@@ -206,8 +206,21 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 0.8],
             imageScale: 0.03,
         },
+        {
+            //portal 7 bekas warden yg sama rafi
+            x: 5613,
+            z: 3559,
+            image: "netherportal.png",
+            imageAnchor: [0.5, 0.8],
+            imageScale: 0.03,
+            text: "warden pertama x (sama rafi)",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
         
-        //stronghold
+        //--stronghold--
         {
             //portal 1
             x: -161,
