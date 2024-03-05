@@ -221,6 +221,19 @@ UnminedCustomMarkers = {
             offsetY: 14,
             font: "bold 14px Calibri,sans serif",
         },
+        {
+            // villager es
+            x: -2832,
+            z: 5398,
+            image: "../netherportal.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.03,
+            text: "Villager es -2832 61 5398",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 14,
+            font: "bold 14px Calibri,sans serif",
+        },
 
         // add your markers here
 
