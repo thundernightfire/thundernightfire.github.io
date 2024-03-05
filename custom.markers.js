@@ -100,7 +100,7 @@ UnminedCustomMarkers = {
             image: "custom.pin.home.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.1,
-            text: "Rumah kuro",
+            text: "Rumah Kuro Taiyo",
             textColor: "white", 
             offsetX: 0,
             offsetY: 16,
@@ -218,6 +218,14 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 14,
             font: "bold 14px Calibri,sans serif",
+        },
+        {
+            //portal 8 es villager
+            x: -22779,
+            z: 43056,
+            image: "netherportal.png",
+            imageAnchor: [0.5, 0.8],
+            imageScale: 0.03,
         },
         
         //--stronghold--
