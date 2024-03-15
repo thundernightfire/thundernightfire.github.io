@@ -222,13 +222,13 @@ UnminedCustomMarkers = {
             font: "bold 14px Calibri,sans serif",
         },
         {
-            // villager es
+            // rumah 6
             x: -2832,
             z: 5398,
             image: "../netherportal.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.03,
-            text: "Villager es -2832 61 5398",
+            text: "Rumah 6 (es) -2832 61 5398",
             textColor: "white", 
             offsetX: 0,
             offsetY: 14,
