@@ -232,6 +232,14 @@ UnminedCustomMarkers = {
             offsetY: 14,
             font: "bold 14px Calibri,sans serif",
         },
+        {
+            //portal 8
+            x: -24370,
+            z: 71700,
+            image: "netherportal.png",
+            imageAnchor: [0.5, 0.8],
+            imageScale: 0.03,
+        },
         
         //--stronghold--
         {
